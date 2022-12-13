@@ -721,6 +721,11 @@
       "email": "hienluong1997@gmail.com",
       "password": "12345678",
       "createdAt": 1663030994183
+    },
+    {
+      "email": "hienluong21297@gmail.com",
+      "password": "$2a$10$.Fh7rtnFjq9kbN1B1K/VTO3RfJUNu5nns0tUug.SCUga9QBdFWCWe",
+      "id": 2
     }
   ]
 }
